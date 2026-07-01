@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0058/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 阿耨風經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0058.xml
+    old_id: T01n0058
+hash: sha256:4ba4937d78cbf0f1034275346ec1f2172b68121b0c33688e3d68cacd90728f47
